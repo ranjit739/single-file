@@ -1,0 +1,46 @@
+.main-header{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+.header-title{
+
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.count{
+    float: right;
+}
+.product-list{
+   justify-content: center;
+    display: flex;
+}
+.product-card{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+}
+.add-to-cart-button{
+    background-color: blue;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+.image-list{
+    display: flex;
+    justify-content: center;
+   
+}
+.imgset{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;box-sizing: border-box;
+    
+}
+.btn{
+    background-color: blue;
+    color: white;
+}
+
